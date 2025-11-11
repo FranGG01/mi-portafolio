@@ -1,12 +1,48 @@
-# React + Vite
+# 🌐 Mi Portfolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a mi portfolio, un espacio donde muestro mis proyectos, experiencia y habilidades como **desarrollador web full stack**.  
+Diseñado con un enfoque limpio, moderno y responsive para reflejar mi estilo profesional y técnico.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- ⚡ **HTML5**
+- 🎨 **CSS3 / Tailwind CSS**
+- 💻 **JavaScript (ES6+)**
+- ⚙️ **Vite**
+- 🚀 **Git / GitHub**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💼 Contenido
+
+- 🧍‍♂️ **Sobre mí** – breve presentación y trayectoria  
+- 💡 **Proyectos** – ejemplos reales con enlaces a repositorios y demos  
+- 🧰 **Habilidades** – tecnologías y herramientas que domino  
+- ✉️ **Contacto** – redes y formulario de contacto  
+
+---
+
+## 🌱 Próximos pasos
+
+- Integrar una sección de blog o artículos técnicos  
+- Añadir modo oscuro  
+- Mejorar animaciones y transiciones con **Framer Motion**
+
+---
+
+## 🚀 Deploy
+
+El portfolio está desplegado en [Vercel](https://vercel.com) *(o GitHub Pages si prefieres)*.
+
+---
+
+📩 Si te interesa colaborar o tienes alguna sugerencia, ¡no dudes en contactarme!
+
+---
+
+### 🧑‍💻 Autor
+**Francisco García (FranGG01)**  
+🔗 [LinkedIn](www.linkedin.com/in/francisco-garcía-garcía)  
+🐙 [GitHub](https://github.com/FranGG01)
