@@ -2,8 +2,21 @@ import { Home, User, Wrench, Code, Send } from 'lucide-react';
 
 function Navbar() {
     return (
-        <nav className="fixed top-0 left-0 w-full bg-black/50 backdrop-blur-md text-white z-50 border-b border-white/5">
-            <div className="max-w-7xl mx-auto px-8 py-5 flex justify-center items-center">
+        <nav className="fixed top-10 left-0 w-full bg-black/ backdrop-blur-md text-white z-50 ">
+            <div className="
+                mx-auto 
+                w-fit 
+                px-9 py-4 
+                flex justify-center items-center
+
+                rounded-2xl 
+                bg-black/40 
+                backdrop-blur-xl  
+                border border-cyan-400/20
+
+                shadow-[0_0_25px_rgba(0,200,255,0.35)]
+            ">
+
 
                 {/* menu principal */}
                 <ul className="hidden md:flex items-center gap-10 text-base font-light">
